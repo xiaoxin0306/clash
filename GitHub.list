@@ -1,0 +1,46 @@
+# =========================
+# Docker Core
+# =========================
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,registry-1.docker.io
+DOMAIN-SUFFIX,index.docker.io
+
+# =========================
+# Docker API / Auth
+# =========================
+DOMAIN-SUFFIX,login.docker.com
+DOMAIN-SUFFIX,auth.docker.com
+DOMAIN-SUFFIX,auth.docker.io
+DOMAIN-SUFFIX,api.docker.com
+DOMAIN-SUFFIX,api.dso.docker.com
+
+# =========================
+# Docker CDN / Storage
+# =========================
+DOMAIN-SUFFIX,production.cloudflare.docker.com
+DOMAIN-SUFFIX,docker-images-prod.r2.cloudflarestorage.com
+DOMAIN-SUFFIX,docker-pinata-support.s3.amazonaws.com
+
+# =========================
+# Docker Desktop / Telemetry
+# =========================
+DOMAIN-SUFFIX,cdn.auth0.com
+DOMAIN-SUFFIX,notify.bugsnag.com
+DOMAIN-SUFFIX,sessions.bugsnag.com
+
+# =========================
+# Google Fonts
+# =========================
+DOMAIN-SUFFIX,fonts.googleapis.com
+DOMAIN-SUFFIX,fonts.gstatic.com
+
+# =========================
+# Custom Domains
+# =========================
+DOMAIN-SUFFIX,llg01.com
+DOMAIN-SUFFIX,llgjc.xyz
+DOMAIN-SUFFIX,apifdgbrgb.llgjc.xyz
+
+# 中文域名（已转 Punycode）
+DOMAIN-SUFFIX,一元机场.com
