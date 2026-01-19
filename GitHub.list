@@ -34,6 +34,14 @@ DOMAIN-SUFFIX,sessions.bugsnag.com
 # =========================
 DOMAIN-SUFFIX,fonts.googleapis.com
 DOMAIN-SUFFIX,fonts.gstatic.com
+DOMAIN-SUFFIX,fcmtoken.googleapis.com
+DOMAIN-SUFFIX,dispatcher.is.autonavi.com
+DOMAIN-SUFFIX,fcm.googleapis.com
+DOMAIN-SUFFIX,firebase.googleapis.com
+DOMAIN-SUFFIX,firebaseinstallations.googleapis.com
+DOMAIN-SUFFIX,gcm-http.googleapis.com
+DOMAIN-SUFFIX,provisioning.googleapis.com
+DOMAIN-SUFFIX,mobile-apps.home-assistant.io
 
 # =========================
 # Custom Domains
