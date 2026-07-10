@@ -14,6 +14,10 @@ DOMAIN-SUFFIX,auth.docker.com
 DOMAIN-SUFFIX,auth.docker.io
 DOMAIN-SUFFIX,api.docker.com
 DOMAIN-SUFFIX,api.dso.docker.com
+DOMAIN-SUFFIX,finance.yahoo.com
+DOMAIN-SUFFIX,yahoo.com
+DOMAIN-SUFFIX,www.yahoo.com
+DOMAIN-SUFFIX,fc.yahoo.com
 
 # =========================
 # Docker CDN / Storage
@@ -49,10 +53,6 @@ DOMAIN-SUFFIX,mobile-apps.home-assistant.io
 DOMAIN-SUFFIX,llg01.com
 DOMAIN-SUFFIX,llgjc.xyz
 DOMAIN-SUFFIX,apifdgbrgb.llgjc.xyz
-DOMAIN-SUFFIX,finance.yahoo.com
-DOMAIN-SUFFIX,yahoo.com
-DOMAIN-SUFFIX,www.yahoo.com
-DOMAIN-SUFFIX,fc.yahoo.com
 
 # 中文域名（已转 Punycode）
 DOMAIN-SUFFIX,一元机场.com
