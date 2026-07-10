@@ -51,6 +51,7 @@ DOMAIN-SUFFIX,llgjc.xyz
 DOMAIN-SUFFIX,apifdgbrgb.llgjc.xyz
 DOMAIN-SUFFIX,finance.yahoo.com
 DOMAIN-SUFFIX,yahoo.com
+DOMAIN-SUFFIX,www.yahoo.com
 DOMAIN-SUFFIX,fc.yahoo.com
 
 # 中文域名（已转 Punycode）
