@@ -49,6 +49,9 @@ DOMAIN-SUFFIX,mobile-apps.home-assistant.io
 DOMAIN-SUFFIX,llg01.com
 DOMAIN-SUFFIX,llgjc.xyz
 DOMAIN-SUFFIX,apifdgbrgb.llgjc.xyz
+DOMAIN-SUFFIX,finance.yahoo.com
+DOMAIN-SUFFIX,yahoo.com
+DOMAIN-SUFFIX,fc.yahoo.com
 
 # 中文域名（已转 Punycode）
 DOMAIN-SUFFIX,一元机场.com
