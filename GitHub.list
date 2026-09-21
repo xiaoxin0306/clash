@@ -21,6 +21,7 @@ DOMAIN-SUFFIX,s.yimg.com
 DOMAIN-SUFFIX,me-ycpi-cf-www.g06.yahoodns.net
 DOMAIN-SUFFIX,www.yahoo.com
 DOMAIN-SUFFIX,fc.yahoo.com
+DOMAIN-SUFFIX,push2.eastmoney.com
 
 # =========================
 # Docker CDN / Storage
